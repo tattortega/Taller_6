@@ -4,10 +4,10 @@
 
 Crear una base de datos en MySQL que incluya la primera, segunda y tercera forma normal de SQL. La base de datos consiste en dar solución a una tienda que contiene lo siguiente:
 
-La tienda tiene productos y proveedores
-La tienda vende productos y tiene clientes
-La tienda solo tiene un vendedor, el dueño
-Los clientes no están registrados pero si se pide el número de documento y tipo de documento para poder hacer la venta.
+* La tienda tiene productos y proveedores
+* La tienda vende productos y tiene clientes
+* La tienda solo tiene un vendedor, el dueño
+* Los clientes no están registrados pero si se pide el número de documento y tipo de documento para poder hacer la venta.
 
 ## Entrega
 
